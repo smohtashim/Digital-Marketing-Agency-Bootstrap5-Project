@@ -1,5 +1,5 @@
-# </> 💻 Digital Marketing Agency Website
-This project is a Bootstrap 5 website for a digital marketing agency. The website is designed to showcase the services provided by the agency, highlight their work, introduce their team, and display their latest blog posts.
+# </> 💻 Digital Marketing Agency Website- TECHMOH
+This project is a Bootstrap 5 website with the name of TECHMOH. The website is designed to showcase the services provided by the agency, highlight their work, introduce their team, and display their latest blog posts.
 
 # 📊 Table of Contents
 • Features
